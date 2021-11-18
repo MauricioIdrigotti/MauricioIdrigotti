@@ -1,4 +1,4 @@
-## Oi, sou o Maurício Idrigotti, busco me expecializar em programação!
+## Oi, sou o Maurício Idrigotti, busco me especializar em programação!
 
 - 🙋‍♂️ Atualmente trabalho em outra área que não envolve programação
 - 📖 Estou aprendendo JavaScript e TypeScript
