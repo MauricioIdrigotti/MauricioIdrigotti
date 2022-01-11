@@ -1,7 +1,7 @@
 ## Oi, sou o Maurício Idrigotti, busco me especializar em programação!
 
 - 🙋‍♂️ Atualmente trabalho em outra área que não envolve programação
-- 📖 Estou aprendendo JavaScript e TypeScript
+- 📖 Estou aprendendo JavaScript e React Native
 - 👨‍🎓 Finalizei o ensino superior em Análise e Desenvolvimetno de Sistemas e agora busco experiência com programação
 - 🦅 Fanático pelo Corinthians
 
