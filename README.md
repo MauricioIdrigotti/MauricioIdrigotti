@@ -3,7 +3,7 @@
 - 🙋‍♂️ Atualmente trabalho em outra área que não envolve programação
 - 📖 Estou aprendendo JavaScript e React Native
 - 👨‍🎓 Finalizei o ensino superior em Análise e Desenvolvimetno de Sistemas e agora busco experiência com programação
-- 🦅 Fanático pelo Corinthians
+- 🦅 Torço pelo Corinthians
 
 <div align="center">
   <a href="https://github.com/MauricioIdrigotti">
