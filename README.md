@@ -2,7 +2,8 @@
 
 - 🙋‍♂️ Busco minha primeira experiência no mercado de programação
 - 📖 Estou aprendendo HTML5, CSS3, JavaScript.
-- 👨‍🎓 Finalizei o ensino superior em Análise e Desenvolvimetno de Sistemas e agora busco experiência com programação
+- 👨‍🎓 Finalizei o ensino superior em Análise e Desenvolvimetno de Sistemas e agora busco experiência com programação.
+- 🚀 Atualmente estou cursando o curso Explorer na plataforma Rocketseat
 
 <div align="center">
   <a href="https://github.com/MauricioIdrigotti">
