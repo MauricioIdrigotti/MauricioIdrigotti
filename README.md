@@ -4,11 +4,6 @@
 - 📖 Estou aprendendo HTML5, CSS3, JavaScript.
 - 👨‍🎓 Finalizei o ensino superior em Análise e Desenvolvimetno de Sistemas e agora busco experiência com programação.
 - 🚀 Atualmente estou cursando o curso Explorer na plataforma Rocketseat
-
-<div align="center">
-  <a href="https://github.com/MauricioIdrigotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioIdrigotti&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
