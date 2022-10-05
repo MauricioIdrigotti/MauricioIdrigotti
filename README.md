@@ -1,9 +1,9 @@
 ## Hello! I'm Maurício Idrigotti and I'm looking to specialize in programming!
 
-- 🙋‍♂️ I'm looking for my first experience in the programming market.
-- 📖 Learning HTML5, CSS3, JavaScript.
+- 🙋‍♂️ I currently work as a trainee in Java(spring).
+- 📖 Learning Java, HTML5, SS3 ad some other frameworks.
 - 👨‍🎓 I finished my faculty in Systems Analysis and Development and now I'm looking for programming experience.
-- 🚀 I'm currently taking the Explorer course on the Rocketseat platform, focused on Web development
+- 🚀 I am currently taking an Alura course to improve the aforementioned languages.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
