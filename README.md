@@ -1,14 +1,14 @@
 ## Hello! I'm Maurício Idrigotti and I'm looking to specialize in programming!
 
-- 🙋‍♂️ I currently work as a trainee in Java(spring).
-- 📖 Learning Java, HTML5, SS3 ad some other frameworks.
+- 🙋‍♂️ I currently work as a trainee in Java.
+- 📖 Learning Java, Spring, HTML5, CSS3 and some other languages and frameworks.
 - 👨‍🎓 I finished my faculty in Systems Analysis and Development and now I'm looking for programming experience.
 - 🚀 I am currently taking an Alura course to improve the aforementioned languages.
 
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Mau-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Mau-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mau-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Mau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
