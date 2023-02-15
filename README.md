@@ -2,8 +2,8 @@
 
 - 🙋‍♂️ I currently work as a trainee in Java.
 - 📖 Learning Java, Spring, HTML5, CSS3 and some other languages and frameworks.
+- ☁️ Also focusing on studies involving cloud, specifically Google Cloud
 - 👨‍🎓 I finished my faculty in Systems Analysis and Development and now I'm looking for programming experience.
-- 🚀 I am currently taking an Alura course to improve the aforementioned languages.
 
 <div style="display: inline_block"><br>
   
