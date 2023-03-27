@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ I currently work as a trainee in DevOps.
 - 📖 Learning Java, Python, JavaScript and some other languages and frameworks.
-- ☁️ Also focusing on studies involving cloud, specifically Google Cloud
+- ☁️ Google Cloud Associate Engineer Certificate
 - 👨‍🎓 I finished my faculty in Systems Analysis and Development and now I'm looking for programming experience.
 
 <div style="display: inline_block"><br>
