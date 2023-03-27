@@ -3,7 +3,6 @@
 <a style="pointer-events: none;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=9486c2&size=35&center=true&vCenter=true&width=1000&height=50&lines=+Hi!+I'm+Maurício+Idrigotti;I'm+20+years+old;I+from+Brazil,+SP;+;Be+Welcome!+😀" alt="Typing SVG" /></a>
 
 ##
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/113953361/213626977-78121779-50a4-4cc6-be47-c87df22037ca.gif](https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
 
 - 🙋‍♂️ I currently work as a trainee in DevOps.
 - 📖 Learning Java, Python, JavaScript and some other languages and frameworks.
