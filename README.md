@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro DevOps | Platform Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9486C2&center=true&vCenter=true&width=450&lines=Cloud+%7C+Automação+%7C+Kubernetes+%7C+GitOps;AWS+%7C+GCP+%7C+Azure+%7C+Terraform+%7C+Ansible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9486C2&center=true&vCenter=true&width=600&lines=%20Cloud+%7C+Automação+%7C+Kubernetes+%7C+GitOps%20;%20AWS+%7C+GCP+%7C+Azure+%7C+Terraform+%7C+Ansible%20" alt="Typing SVG" />
 </p>
 
 ---
