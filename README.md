@@ -18,6 +18,14 @@
 
 ---
 
+### 🧩 Projetos e Comunidade
+
+Atualmente atuo na organização [**DevOpsProjectsLab**](https://github.com/DevOpsProjectsLab), 
+um grupo voltado para **estudos, práticas e laboratórios DevOps**.  
+O projeto ainda está em fase inicial, mas vem evoluindo com foco em **infraestrutura como código, CI/CD, containers e observabilidade**.
+
+---
+
 ### 🧰 Stack de Tecnologias
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
