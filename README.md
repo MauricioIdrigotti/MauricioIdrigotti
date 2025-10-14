@@ -1,27 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9486C2&height=120&section=header"/>
+<h1 align="center">Oi, sou o Maurício Idrigotti</h1>
+<h3 align="center">Engenheiro DevOps | Platform Engineer</h3>
 
-<a style="pointer-events: none;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=9486c2&size=35&center=true&vCenter=true&width=1000&height=50&lines=+Hi!+I'm+Maurício+Idrigotti;I'm+22+years+old;I+from+Brazil,+SP;+;Be+Welcome!+😀" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9486C2&center=true&vCenter=true&width=450&lines=Cloud+%7C+Automação+%7C+Kubernetes+%7C+GitOps;AWS+%7C+GCP+%7C+Azure+%7C+Terraform+%7C+Ansible" alt="Typing SVG" />
+</p>
 
-##
+---
 
-- 🙋‍♂️ I currently work as a Junior n DevOps.
-- 📖 Learning AWS, Google Cloud, Terraform, GitHub Actions, GitLab CI/CD and other tools.
-- ☁️ Google Cloud Associate Engineer Certificate
-- 👨‍🎓 I finished my faculty in Systems Analysis and Development.
+### 👨‍💻 Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mau-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Mau-Gcp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-  <img align="center" alt="Mau-Aws" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="center" alt="Mau-Terraform" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
-  <img align="center" alt="Mau-GitHub" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img align="center" alt="Mau-GitHub" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg"/>
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:mauricioisereno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maur%C3%ADcio-idrigotti-sereno-b15a541a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
+- 🔧 **DevOps / Platform Engineer** com foco em **Cloud, Kubernetes, GitOps e automação de CI/CD**  
+- ☁️ Experiência com **AWS, GCP e Azure**  
+- ⚙️ Habilidade em **Terraform, Ansible, GitHub Actions e GitLab CI/CD**  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+- 📜 **Certificação Google Cloud Associate Engineer (2023–2026)**  
+- 💡 Apaixonado por **DevSecOps, FinOps e confiabilidade de plataformas**
+
+---
+
+### 🧰 Stack de Tecnologias
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="35" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="35" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" height="35" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
+</p>
+
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="mailto:mauricioisereno@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maur%C3%ADcio-idrigotti-sereno-b15a541a3" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
