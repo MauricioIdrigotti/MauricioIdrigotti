@@ -1,58 +1,23 @@
-<h1 align="center">Oi, sou o Maurício Idrigotti</h1>
-<h3 align="center">Engenheiro DevOps | Platform Engineer</h3>
+# Olá, eu sou o Maurício 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9486C2&center=true&vCenter=true&width=600&lines=%20Cloud+%7C+Automação+%7C+Kubernetes+%7C+GitOps%20;%20AWS+%7C+GCP+%7C+Azure+%7C+Terraform+%7C+Ansible%20" alt="Typing SVG" />
+Sou **Site Reliability Engineer** com atuação em **Cloud**, **Kubernetes** e **Infraestrutura como Código**, focado em construir plataformas cada vez mais confiáveis, automatizadas e escaláveis.
+Ao longo da minha carreira passei por suporte, DevOps e hoje atuo como SRE, trabalhando diariamente com automação, observabilidade, troubleshooting e evolução de plataformas em ambientes cloud. Gosto de entender sistemas complexos, simplificar operações e criar soluções que permitam aos times desenvolver com mais segurança e velocidade.
+Atualmente concentro boa parte dos meus estudos em **Platform Engineering** e **Inteligência Artificial aplicada à Engenharia**, explorando como agentes de IA, automações inteligentes e observabilidade podem transformar a forma como plataformas são operadas.
+Além do trabalho, mantenho a organização **DevOpsProjectsLab**, onde desenvolvo laboratórios e projetos voltados para Cloud, Kubernetes, GitOps, Observabilidade e Engenharia de Plataforma.
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,github,python&perline=9"/>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 📫 Contato
 
-- 🔧 **DevOps / Platform Engineer** com foco em **Cloud, Kubernetes, GitOps e automação de CI/CD**  
-- ☁️ Experiência com **AWS, GCP e Azure**  
-- ⚙️ Habilidade em **Terraform, Ansible, GitHub Actions e GitLab CI/CD**  
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-- 📜 **Certificação Google Cloud Associate Engineer (2023–2026)**  
-- 💡 Apaixonado por **DevSecOps, FinOps e confiabilidade de plataformas**
+- 💼 [LinkedIn](https://www.linkedin.com/in/mauricio-idrigotti-sereno/)
+- 📧 mauricioisereno@gmail.com
 
 ---
-
-### 🧩 Projetos e Comunidade
-
-Atualmente atuo na organização [**DevOpsProjectsLab**](https://github.com/DevOpsProjectsLab), 
-um grupo voltado para **estudos, práticas e laboratórios DevOps**.  
-O projeto ainda está em fase inicial, mas vem evoluindo com foco em **infraestrutura como código, CI/CD, containers e observabilidade**.
-
----
-
-### 🧰 Stack de Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="GCP" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="35" alt="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="Terraform" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="35" alt="Ansible" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" height="35" alt="GitLab" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
-</p>
-
----
-
-### 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="mailto:mauricioisereno@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maur%C3%ADcio-idrigotti-sereno-b15a541a3" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-
